@@ -1,0 +1,4 @@
+[submodule "gpio-cdev"]
+	path = gpio-cdev
+	url = https://github.com/mgottschlag/gpio-cdev
+	branch = tokio
