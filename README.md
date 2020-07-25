@@ -1,7 +1,7 @@
 # ACC
 AC remote control for Inventor Aria models via Infrared.
 
-Encoding of IR signals was reverse-engineered on my own "Aria" AC, might need adjustment for other variants (more details in `scrathpad.txt`). Use at your own discretion.
+Encoding of IR signals was reverse-engineered on my own "Aria" AC, might need adjustment for other variants (more details in `scratchpad.txt`). Use at your own discretion.
 
 Use `acc help` and `acc help send` for usage information.
 
